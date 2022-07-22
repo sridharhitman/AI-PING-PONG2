@@ -1,0 +1,26 @@
+.heading{
+    width:100%;
+    text-align:left;
+}
+.heading h3{
+    display:inline;
+}
+.heading button{
+    float:right;
+    border:1px solid white;
+}
+
+#start, #status,#restart{
+    font-size:22px;
+}
+.copyright{
+    position: sticky;
+    background: gray;
+    line-height:3;
+    color:white;
+    bottom: 0;
+}
+#canvas{
+    box-shadow: 10px 10px 10px #3d3b3b;
+    margin-top: 300px;
+}
